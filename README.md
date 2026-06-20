@@ -1,2 +1,1 @@
-# fnf
-# fnf
+compiled fnf source code
