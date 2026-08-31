@@ -1,1 +1,1 @@
-compiled fnf source code
+compiled fnf source code for personal use
